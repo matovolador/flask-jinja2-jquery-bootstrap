@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Source+Sans+Pro&display=swap');
+
+body{
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 14px;
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Here you should set what size you want your div to be 
+when viewed on smartphone */
+/* Styles */
+    body{
+        font-size:12px;
+    }
+    
+}

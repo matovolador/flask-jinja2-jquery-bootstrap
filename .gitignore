@@ -1,0 +1,10 @@
+venv
+_labs
+.vscode
+*Zone.Identifier
+**.pyc
+__pycache__
+temp
+!temp/.gitkeep
+flask_session
+.env
